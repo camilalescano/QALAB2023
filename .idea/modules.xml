@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POO_Game/POO_Game.iml" filepath="$PROJECT_DIR$/POO_Game/POO_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QALAB2023.iml" filepath="$PROJECT_DIR$/.idea/QALAB2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucleFor/bucleFor.iml" filepath="$PROJECT_DIR$/bucleFor/bucleFor.iml" />
+    </modules>
+  </component>
+</project>
