@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
+        //QALAB2024 - Editado por Camila LV
 
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
